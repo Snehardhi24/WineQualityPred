@@ -52,6 +52,8 @@ We can observe that spark file on port 41669.
 
 ![image](https://github.com/Snehardhi24/WineQualityPred/assets/150552754/d4a1a482-5d1a-4a09-84e5-2ff3b2c99c66)
 
+You can see the accuracy below:
+
 ![image](https://github.com/Snehardhi24/WineQualityPred/assets/150552754/0ef60d13-7335-42a8-9d22-af718d8014df)
 
 ## With Docker:
