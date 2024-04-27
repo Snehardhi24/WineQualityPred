@@ -8,6 +8,7 @@
 1. Sign in to the AWS Management Console: Go to https://aws.amazon.com/ and sign in to the AWS Management Console using your credentials.
    <br>
 2.Navigate to the EC2 Dashboard: Once logged in, navigate to the EC2 Dashboard by searching for "EC2" in the AWS services search bar and selecting it.
+---
 3.Choose "Key Pairs": In the EC2 Dashboard, locate the "Network & Security" section in the left-hand navigation pane, and then select "Key Pairs".
 4.Create Key Pair: Click on the "Create Key Pair" button.
 5.Enter Key Pair Name: Provide a name for your key pair.
