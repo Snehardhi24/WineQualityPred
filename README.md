@@ -6,16 +6,23 @@
 ## Steps:
 
 1. Sign in to the AWS Management Console: Go to https://aws.amazon.com/ and sign in to the AWS Management Console using your credentials.
-<br>
+ <br>
 2.Navigate to the EC2 Dashboard: Once logged in, navigate to the EC2 Dashboard by searching for "EC2" in the AWS services search bar and selecting it.
-
+ <br>
 3.Choose "Key Pairs": In the EC2 Dashboard, locate the "Network & Security" section in the left-hand navigation pane, and then select "Key Pairs".
+ <br>
 4.Create Key Pair: Click on the "Create Key Pair" button.
+ <br>
 5.Enter Key Pair Name: Provide a name for your key pair.
+ <br>
 6.Download Key Pair: predkey.pem.
+ <br>
 7.Then go to EMR console and create EMR cluster 
+ <br>
 8.4. Creating the spark in the AWS instance by using EMR console: 
+ <br>
 9.Creating the spark cluster by using the EMR console, and create the 4 instances: 
+ <br>
 10.Name and application: 
         Amazon EMR release: emr-5.33.0 
             Application bundle: Hadoop 2.10.1 Spark 2.4.7, Zippeline 0.9.0, and Yarn 
