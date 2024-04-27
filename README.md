@@ -5,7 +5,7 @@
 
 ## Steps:
 
-1. Sign in to the AWS Management Console: Go to https://aws.amazon.com/ and sign in to the AWS Management Console using your credentials.
+1.Sign in to the AWS Management Console: Go to https://aws.amazon.com/ and sign in to the AWS Management Console using your credentials.
  <br>
 2.Navigate to the EC2 Dashboard: Once logged in, navigate to the EC2 Dashboard by searching for "EC2" in the AWS services search bar and selecting it.
  <br>
@@ -26,6 +26,7 @@
 10.Name and application: 
         Amazon EMR release: emr-5.33.0 
             Application bundle: Hadoop 2.10.1 Spark 2.4.7, Zippeline 0.9.0, and Yarn 
+<br>
 
 By following images, we need to create EMR Cluster:
 ![image](https://github.com/Snehardhi24/WineQualityPred/assets/150552754/03151c6e-2b6e-43d3-b204-2ca83004be9c)
